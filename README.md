@@ -44,9 +44,7 @@ I'm a passionate software programmer and electrical engineer. Currently, I am im
 ![slack](https://icongr.am/devicon/slack-original.svg?size=40&color=currentColor)
 ![twitter](https://icongr.am/devicon/twitter-original.svg?size=40&color=currentColor)
 ![ubuntu](https://icongr.am/devicon/ubuntu-plain.svg?size=40&color=currentColor)
-
-
-
+![windows](https://icongr.am/devicon/windows8-original.svg?size=40&color=currentColor)
 
 
 <!--- Visitor Counter -->
