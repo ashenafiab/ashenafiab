@@ -6,10 +6,19 @@ I'm a passionate software programmer and electrical engineer. Currently, I am im
 
 <!--- Skills -->
 ## 🚀 Skills 
-- **Languages:** [List of Programming Languages you are proficient in]
-- **Frameworks:** [List of Frameworks you are experienced with]
+- **Languages:**
+  
+ ![c](https://icongr.am/devicon/c-original.svg?size=40&color=currentColor)
+
+
+- **Frameworks:**
+
+![bootstrap](https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=40&color=currentColor)
+  
 - **Databases:** [List of Databases you are familiar with]
-- **Tools:** [List of Development Tools you use]
+- **Tools:**
+
+![Google Chrome](https://icongr.am/devicon/chrome-original.svg?size=40&color=currentColor)
 
 <!--- Visitor Counter -->
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ashenafiab.ashenafiab)
