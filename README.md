@@ -13,6 +13,7 @@ I'm a passionate software programmer and electrical engineer. Currently, I am im
 ![CSS](https://icongr.am/devicon/css3-original.svg?size=40&color=currentColor)
 ![HTML5](https://icongr.am/devicon/html5-original.svg?size=40&color=currentColor)
 ![javascript](https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor)
+![vim](https://icongr.am/devicon/vim-original.svg?size=40&color=currentColor)
 
 
 
@@ -21,6 +22,7 @@ I'm a passionate software programmer and electrical engineer. Currently, I am im
 ![bootstrap](https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=40&color=currentColor)
 ![express](https://icongr.am/devicon/express-original-wordmark.svg?size=40&color=currentColor)
 ![jQuery](https://icongr.am/devicon/jquery-original.svg?size=40&color=currentColor)
+![react](https://icongr.am/devicon/react-original.svg?size=40&color=currentColor)
 
   
 - **Databases:**
@@ -37,6 +39,13 @@ I'm a passionate software programmer and electrical engineer. Currently, I am im
 ![github](https://icongr.am/devicon/github-original.svg?size=40&color=currentColor)
 ![linkedin](https://icongr.am/devicon/linkedin-original.svg?size=40&color=currentColor)
 ![linux](https://icongr.am/devicon/linux-original.svg?size=40&color=currentColor)
+![nodejs](https://icongr.am/devicon/nodejs-original.svg?size=40&color=currentColor)
+![npm](https://icongr.am/devicon/npm-original-wordmark.svg?size=40&color=currentColor)
+![slack](https://icongr.am/devicon/slack-original.svg?size=40&color=currentColor)
+![twitter](https://icongr.am/devicon/twitter-original.svg?size=40&color=currentColor)
+![ubuntu](https://icongr.am/devicon/ubuntu-plain.svg?size=40&color=currentColor)
+
+
 
 
 
