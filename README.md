@@ -8,17 +8,37 @@ I'm a passionate software programmer and electrical engineer. Currently, I am im
 ## 🚀 Skills 
 - **Languages:**
   
- ![c](https://icongr.am/devicon/c-original.svg?size=40&color=currentColor)
+![C](https://icongr.am/devicon/c-original.svg?size=40&color=currentColor)
+![C++](https://icongr.am/devicon/cplusplus-original.svg?size=40&color=currentColor)
+![CSS](https://icongr.am/devicon/css3-original.svg?size=40&color=currentColor)
+![HTML5](https://icongr.am/devicon/html5-original.svg?size=40&color=currentColor)
+![javascript](https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor)
+
 
 
 - **Frameworks:**
 
 ![bootstrap](https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=40&color=currentColor)
+![express](https://icongr.am/devicon/express-original-wordmark.svg?size=40&color=currentColor)
+![jQuery](https://icongr.am/devicon/jquery-original.svg?size=40&color=currentColor)
+
   
-- **Databases:** [List of Databases you are familiar with]
+- **Databases:**
+
+![mongodb](https://icongr.am/devicon/mongodb-original.svg?size=40&color=currentColor)
+
 - **Tools:**
 
 ![Google Chrome](https://icongr.am/devicon/chrome-original.svg?size=40&color=currentColor)
+![google](https://icongr.am/devicon/google-original.svg?size=40&color=currentColor)
+![facebook](https://icongr.am/devicon/facebook-original.svg?size=40&color=currentColor)
+![mozilla firefox](https://icongr.am/devicon/firefox-original.svg?size=40&color=currentColor)
+![git](https://icongr.am/devicon/git-original.svg?size=40&color=currentColor)
+![github](https://icongr.am/devicon/github-original.svg?size=40&color=currentColor)
+![linkedin](https://icongr.am/devicon/linkedin-original.svg?size=40&color=currentColor)
+![linux](https://icongr.am/devicon/linux-original.svg?size=40&color=currentColor)
+
+
 
 <!--- Visitor Counter -->
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ashenafiab.ashenafiab)
