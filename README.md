@@ -2,7 +2,7 @@
 # 👋 Hello, I'm Ashenafi!
 
 <!--- Introduction -->
-I'm a passionate software programmer and electrical engineer. Currently, I am immersed in building Building DApps on ICP with a React Frontend.
+I'm a passionate software programmer, and electrical engineer from Ethiopia. Currently, I am immersed in building DApps on ICP with a React Frontend.
 
 <!--- Skills -->
 ## 🚀 Skills 
