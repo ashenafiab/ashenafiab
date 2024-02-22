@@ -57,7 +57,7 @@ I'm a passionate software programmer, and electrical engineer from Ethiopia. Cur
 <!--- Projects -->
 ## 🔧 Projects
 ### Project 1
-- [Project 1 Name](Link to Project 1)
+- alx BlogHub [please check my project overview on youtube via the link attached here](https://youtu.be/SSVUbX3u-Cw?si=Rw0vu9_YkBE-8xDk)
   - Brief description of the project.
   - Technologies used.
 
