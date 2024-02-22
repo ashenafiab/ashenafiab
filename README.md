@@ -74,8 +74,9 @@ I'm a passionate software programmer, and electrical engineer from Ethiopia. Cur
 
 <!--- Connect with Me -->
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ashenafi-abebaw-bb82a3202?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)
-[![Twitter](https://img.shields.io/badge/Twitter-YourTwitter-blue?style=flat-square&logo=twitter)](https://twitter.com/Ashenafiabebaw0?s=09)
+[![Gmail](https://img.shields.io/badge/Gmail-Clickme-blue?style=flat-square&logo=gmail)](mailto:ashenafiabebaw02@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Clickme-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ashenafi-abebaw-bb82a3202?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)
+[![Twitter](https://img.shields.io/badge/Twitter-Clickme-blue?style=flat-square&logo=twitter)](https://twitter.com/Ashenafiabebaw0?s=09)
 <!--- [![Portfolio](https://img.shields.io/badge/Portfolio-YourPortfolio-blue?style=flat-square&logo=portfolio)](https://yourportfolio.com)-->
 
 <!--- Your Favorite Quote -->
