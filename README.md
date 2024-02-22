@@ -61,25 +61,27 @@ I'm a passionate software programmer, and electrical engineer from Ethiopia. Cur
   - This is a hub for insightful articles on tech, innovation, and personal growth.
   - HTML, CSS , javascript, nodejs, expressjs, ejs.
 
-### Project 2
+<!--- ### Project 2
 - [Project 2 Name](Link to Project 2)
   - Brief description of the project.
-  - Technologies used.
+  - Technologies used.-->
+
 
 <!--- Your Blog Posts -->
-## ✍️ Blog Posts
+<!---## ✍️ Blog Posts
 - [Blog Post 1](Link to Blog Post 1): Description of the blog post.
-- [Blog Post 2](Link to Blog Post 2): Description of the blog post.
+- [Blog Post 2](Link to Blog Post 2): Description of the blog post.-->
 
 <!--- Connect with Me -->
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ashenafi-abebaw-bb82a3202?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)
 [![Twitter](https://img.shields.io/badge/Twitter-YourTwitter-blue?style=flat-square&logo=twitter)](https://twitter.com/Ashenafiabebaw0?s=09)
-[![Portfolio](https://img.shields.io/badge/Portfolio-YourPortfolio-blue?style=flat-square&logo=portfolio)](https://yourportfolio.com)
+<!--- [![Portfolio](https://img.shields.io/badge/Portfolio-YourPortfolio-blue?style=flat-square&logo=portfolio)](https://yourportfolio.com)-->
 
 <!--- Your Favorite Quote -->
 ## 🧠 Favorite Quote
-> "Your quote goes here." - [Author]
+> "code is like humor. when you have to explain it, it's bad.
+" - [Cory House]
 
 <!--- Your GitHub Streak -->
 ## 🌟 GitHub Streak
