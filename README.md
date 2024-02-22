@@ -59,7 +59,7 @@ I'm a passionate software programmer, and electrical engineer from Ethiopia. Cur
 ### Project 1
 - alx BlogHub [click this link to view my project overview on youtube](https://youtu.be/SSVUbX3u-Cw?si=Rw0vu9_YkBE-8xDk)
   - This is a hub for insightful articles on tech, innovation, and personal growth.
-  - HTML, CSS , nodejs, expressjs, .
+  - HTML, CSS , javascript, nodejs, expressjs, ejs.
 
 ### Project 2
 - [Project 2 Name](Link to Project 2)
